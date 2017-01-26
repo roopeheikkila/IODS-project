@@ -1,0 +1,11 @@
+---
+title: "IODS-course"
+author: "Roope Heikkilä"
+date: "26 tammikuuta 2017"
+output: html_document
+---
+  
+  
+Exercises in R, Rmarkdown & github.  
+[Course diary](https://roopeheikkila.github.io/IODS-project/)
+
